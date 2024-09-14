@@ -1,4 +1,11 @@
 # Hi there, I'm Tharindu Prabath 👋
+<h1 align="center">
+  Hi there, I'm <span style="color:#38B6FF">Tharindu Prabath</span> 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=38B6FF&center=true&vCenter=true&width=440&height=45&lines=Electrical+Engineering+Student;Renewable+Energy+Enthusiast;Passionate+about+AI+and+ML;Always+Learning+New+Things" alt="Typing SVG">
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TharinduPrabath2001&color=brightgreen)
 
