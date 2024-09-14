@@ -1,4 +1,4 @@
-# Hi there, I'm Tharindu Prabath 👋
+
 <h1 align="center">
   Hi there, I'm <span style="color:#38B6FF">Tharindu Prabath</span> 👋
 </h1>
