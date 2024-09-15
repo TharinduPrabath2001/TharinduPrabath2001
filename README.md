@@ -27,7 +27,7 @@
 
 ## 📫 How to reach me:
 - 🌐 **GitHub**: [TharinduPrabath2001](https://github.com/TharinduPrabath2001)
-- ✉️ **Email**: youremail@example.com
+- ✉️ **Email**: ptpprabath@gmail.com
 
 ## 😄 Pronouns:
 - He/Him
@@ -36,11 +36,14 @@
 - I believe **renewable energy** can power the world! 🌍
 
 ## 🔥 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
+<div style="text-align: center;">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="150">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="200">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="150">
+</div>
+
 
 ## 📊 GitHub Stats:
 
