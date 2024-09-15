@@ -3,9 +3,7 @@
   Hi there, I'm <span style="color:#38B6FF">Tharindu Prabath</span> 👋
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=38B6FF&center=true&vCenter=true&width=470&height=45&lines=Electrical+Engineering+Student;Renewable+Energy+Enthusiast;Passionate+about+AI+and+ML;Always+Learning+New+Things&delay=500" alt="Typing SVG">
-</p>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TharinduPrabath2001&color=brightgreen)
@@ -15,7 +13,9 @@
 - 🔧 I love solving complex problems and finding innovative solutions.
 - 💻 I'm eager to collaborate on open-source projects in **energy systems**, **automation**, and **AI**.
 - 🎯 Currently diving deeper into **hands-on experience** in installation and energy management systems.
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=38B6FF&center=true&vCenter=true&width=470&height=45&lines=Electrical+Engineering+Student;Renewable+Energy+Enthusiast;Passionate+about+AI+and+ML;Always+Learning+New+Things&delay=500" alt="Typing SVG">
+</p>
 ## 🌱 What I'm Learning:
 - 🧠 **Machine Learning**: Using data to optimize energy systems and smart grids.
 - ⚡ **Renewable Energy**: Harnessing wind, solar, and hydro for sustainable power generation.
